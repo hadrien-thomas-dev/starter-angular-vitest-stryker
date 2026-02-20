@@ -118,3 +118,5 @@ All files       |  33.33 |   33.33 |        1 |         0 |          2 |        
 07:55:20 (25372) INFO HtmlReporter Your report can be found at: file:///C:/Users/thoma/projects/perso/tests_sandbox/starter-angular-vitest-stryker/reports/mutation/mutation.html
 07:55:20 (25372) INFO MutationTestExecutor Done in 23 seconds.
 ```
+
+[Setup github pipeline and stryker dashboard](STRYKER-DASHBOARD.md)
